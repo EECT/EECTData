@@ -1,0 +1,7 @@
+[Msg]
+title = false
+text = false
+
+[Action]
+action = false
+mandatory = true
